@@ -1,0 +1,13 @@
+name: Shinyapp_peergraded
+title: Shinyapp_peergraded
+username:
+account: devilhunterv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7504271
+bundleId: 6469022
+url: https://devilhunterv.shinyapps.io/Shinyapp_Peergraded/
+when: 1667423792.56054
+lastSyncTime: 1667423792.56056
+asMultiple: FALSE
+asStatic: FALSE
